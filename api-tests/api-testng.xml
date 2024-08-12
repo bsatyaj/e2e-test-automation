@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="API Test Suite">
+    <test name="Web Service Functional Test">
+        <classes>
+            <class name="com.epam.learn.scripts.RestFunctionalTest"/>
+        </classes>
+    </test>
+</suite>
